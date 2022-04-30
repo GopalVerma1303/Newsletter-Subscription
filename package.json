@@ -1,0 +1,18 @@
+{
+  "name": "newsletter-signup",
+  "version": "1.0.0",
+  "description": "Signin website for newsletter subscription.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gopal Verma",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.0",
+    "https": "^1.0.0",
+    "request": "^2.88.2",
+    "require": "^0.4.4"
+  }
+}
